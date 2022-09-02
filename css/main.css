@@ -1,0 +1,29 @@
+.ol {
+    list-style-position: inside;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto ;
+    
+}
+  
+.grid-item {
+    text-align: center;
+}
+
+.body {
+background-color:  #c2cad0;
+}
+
+.block {
+    display:inline-block;
+    width: 300px;
+    height: 350px;
+    background-color: lightgray;
+    padding-top: 40px;
+}
+  
+.container {
+    text-align: center;
+}
