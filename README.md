@@ -1,2 +1,2 @@
 # house-of-cats
-a house full of cats
+This basic project shows you my beautiful cats
